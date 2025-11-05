@@ -80,16 +80,16 @@ El prototipo de **RandomForest (sMAPE de 8.43%)** es un éxito, siendo significa
 
 ---
 
-## 🖼️ Ejemplo de Ejecución / Visualizaciones
+## 🖼️ Ejecución / Visualizaciones
 
 ### 1. Concentración de Metales por Etapa
 
-![Concentración promedio de metales por etapa](URL_A_TU_IMAGEN_DE_CONCENTRACION_DE_METALES)
+![Concentración promedio de metales por etapa](concentracion_metales.png)
 
 * **Descripción:** Este gráfico muestra la **evolución de la concentración promedio de metales**. La concentración de oro (Au) aumenta en cada etapa, mientras que la plata (Ag) se reduce progresivamente, lo que valida la calidad de los datos y la lógica del proceso de purificación.
 
 ### 2. Distribución del Tamaño de Partículas
 
-![Comparación de la distribución del tamaño de partículas](URL_A_TU_IMAGEN_DE_DISTRIBUCION_DE_PARTICULAS)
+![Comparación de la distribución del tamaño de partículas](distribucion_particulas.png)
 
 * **Descripción:** La superposición de las curvas de densidad Kernel (KDE) demuestra que la distribución del tamaño de las partículas de alimentación es **homogénea** entre los conjuntos de entrenamiento y prueba, lo que garantiza la fiabilidad del entrenamiento del modelo.
